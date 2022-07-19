@@ -1,7 +1,6 @@
 Simple meals app, with using free Api. MVVM, Retrofit, Room database.
-![Screenshot_20220719-021255_Meal app](https://user-images.githubusercontent.com/87577579/179633858-dcd2ff15-8bbf-4d98-84dd-9427940fca7f.jpg)
-![Screenshot_20220719-021303_Meal app](https://user-images.githubusercontent.com/87577579/179633873-e24ada62-eaab-4921-ac71-e05334579b2e.jpg)
-![Screenshot_20220719-021312_Meal app](https://user-images.githubusercontent.com/87577579/179633893-056dd6fe-75c4-4c54-b99d-1ec9c91f389d.jpg)
-![Screenshot_20220719-021357_Meal app](https://user-images.githubusercontent.com/87577579/179633905-d33ce076-b92d-42b8-920c-3ae4b9570692.jpg)
-![Screenshot_20220719-021423_Meal app](https://user-images.githubusercontent.com/87577579/179633924-7b11c461-00f3-4812-865d-775c133f58c5.jpg)
-
+![Screenshot_20220719-021255_Meal app](https://user-images.githubusercontent.com/87577579/179637349-ae4ac05f-5349-4081-a5bb-fbdea4674516.jpg)
+![Screenshot_20220719-021303_Meal app](https://user-images.githubusercontent.com/87577579/179637354-d90d7a52-23eb-4303-85c0-65765e11aa96.jpg)
+![Screenshot_20220719-021312_Meal app](https://user-images.githubusercontent.com/87577579/179637356-f21aca91-ec9f-4b53-8c84-2184a472dcc8.jpg)
+![Screenshot_20220719-021357_Meal app](https://user-images.githubusercontent.com/87577579/179637361-d594438f-bee5-4aae-badb-5f886bc9e3a0.jpg)
+![Screenshot_20220719-021423_Meal app](https://user-images.githubusercontent.com/87577579/179637362-30b3d1aa-b83c-4f8a-8f01-d10862deb4ae.jpg)
